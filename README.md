@@ -30,10 +30,9 @@ Visitor's Count
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tomatolian&show_icons=true&theme=dark&locale=en" alt="tomatolian" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tomatolian&theme=dark" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tomatolian&theme=dark" alt="tomatolian" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomatolian&label=Profile%20views&color=0e75b6&style=flat" alt="tomatolian" /> </p>
+<p align="left"></p>
 
